@@ -1,3 +1,16 @@
+## コンテナ実行
+
+```bash
+docker-compose up -d
+```
+
+## サーバ起動
+```
+npm run dev
+
+基本的に3000ポートで実行される。変更したい場合は"PORT=8080 remix dev"のように環境変数PORTを指定すること。
+```
+
 ## 必要条件
 
 - Docker（Docker Desktopなど）がインストールされていること

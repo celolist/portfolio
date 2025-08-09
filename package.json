@@ -1,0 +1,27 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        //"dev": "PORT=8080 remix dev",
+        "dev": "remix dev",
+        "build": "remix build",
+        "start": "remix-serve build"
+    },
+    "dependencies": {
+        "@remix-run/node": "latest",
+        "@remix-run/react": "latest",
+        "@remix-run/serve": "latest",
+        "isbot": "^4",
+        "react": "latest",
+        "react-dom": "latest"
+    },
+    "devDependencies": {
+        "@remix-run/dev": "latest",
+        "eslint": "latest",
+        "eslint-config-prettier": "latest",
+        "eslint-plugin-react": "latest",
+        "prettier": "latest",
+        "typescript": "latest"
+    }
+}
