@@ -1,6 +1,7 @@
 ## コンテナ実行
 
 ```bash
+cd [プロジェクトルート]
 docker-compose up -d
 ```
 
