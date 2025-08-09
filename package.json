@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "private": true,
     "scripts": {
-        //"dev": "PORT=8080 remix dev",
         "dev": "remix dev",
         "build": "remix build",
         "start": "remix-serve build"

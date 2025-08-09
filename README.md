@@ -49,7 +49,7 @@ docker-compose up --build
 
 ---
 
-## 動作確認
+## 備考
 - app/ ディレクトリにRemixアプリが生成されます
 - backend/ にRust APIプロジェクトが生成されます
 - main.js はNode.jsサーバーで、
